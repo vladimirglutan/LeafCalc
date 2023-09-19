@@ -16,6 +16,8 @@ This repository contains a script to calculate the surface area of leaves in an 
 
 ``sh
 git clone https://github.com/vladimirglutan/LeafCalc.git
+``
+``sh
 cd LeafCalc
 ``
 
@@ -25,9 +27,10 @@ cd LeafCalc
 
 ``sh
 python3 -m venv venv
+``
+``sh
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ``
-
    Then, install the packages:
 
 ``sh
