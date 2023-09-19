@@ -23,16 +23,6 @@ cd LeafCalc
 
 2. **Install the required packages**:
 
-   You can set up a virtual environment if desired:
-
-``
-python3 -m venv venv
-``
-``
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-``
-   Then, install the packages:
-
 ``
 pip install opencv-python numpy matplotlib
 ``
