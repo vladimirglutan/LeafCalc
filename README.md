@@ -1,5 +1,3 @@
-
-
 <pre>
 # Leaf Area Calculator
 
