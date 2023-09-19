@@ -1,12 +1,3 @@
-<pre>
-\```bash
-git clone https://github.com/vladimirglutan/LeafCalc.git
-cd LeafCalc
-\```
-</pre>
-In the example above, I specified bash for syntax highlighting of shell commands.
-
-Here's how the previously provided README's code sections should look:
 
 <pre>
 # Leaf Area Calculator
