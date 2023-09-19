@@ -32,7 +32,7 @@ pip install opencv-python numpy matplotlib
 1. **Run the script**:
 
 ``
-python leaf_calc.py
+python leafcalc.py
 ``
 
 2. **Input the image path**:
