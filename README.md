@@ -1,3 +1,4 @@
+
 # Leaf Area Calculator
 
 This repository contains a script to calculate the surface area of leaves in an image using a US quarter as a reference for scale.
@@ -13,29 +14,33 @@ This repository contains a script to calculate the surface area of leaves in an 
 
 1. **Clone the repository**:
 
+``sh
 git clone https://github.com/vladimirglutan/LeafCalc.git
 cd LeafCalc
-
+``
 
 2. **Install the required packages**:
 
    You can set up a virtual environment if desired:
 
+``sh
 python3 -m venv venv
-source venv/bin/activate # On Windows, use: venv\Scripts\activate
-
+source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+``
 
    Then, install the packages:
 
+``sh
 pip install opencv-python numpy matplotlib
-
+``
 
 ## Usage
 
 1. **Run the script**:
 
-python leafcalc.py
-
+``sh
+python leaf_calc.py
+``
 
 2. **Input the image path**:
 
