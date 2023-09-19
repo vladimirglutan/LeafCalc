@@ -14,10 +14,10 @@ This repository contains a script to calculate the surface area of leaves in an 
 
 1. **Clone the repository**:
 
-``sh
+``
 git clone https://github.com/vladimirglutan/LeafCalc.git
 ``
-``sh
+``
 cd LeafCalc
 ``
 
@@ -25,15 +25,15 @@ cd LeafCalc
 
    You can set up a virtual environment if desired:
 
-``sh
+``
 python3 -m venv venv
 ``
-``sh
+``
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ``
    Then, install the packages:
 
-``sh
+``
 pip install opencv-python numpy matplotlib
 ``
 
@@ -41,7 +41,7 @@ pip install opencv-python numpy matplotlib
 
 1. **Run the script**:
 
-``sh
+``
 python leaf_calc.py
 ``
 
