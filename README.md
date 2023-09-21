@@ -48,3 +48,4 @@ python leafcalc.py
 - Ensure the image has a US quarter for scale.
 - The script assumes the quarter is the most circular object in the image.
 - Adjust the thresholds in the script if needed, depending on the quality and resolution of your images.
+- Thank you Colin for inspiring this project
