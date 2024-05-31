@@ -11,6 +11,10 @@ Created by Jack Phelps.
 - NumPy
 - Matplotlib
 
+``
+pip install opencv-python numpy matplotlib
+``
+
 ## Setup
 
 1. **Clone the repository**:
