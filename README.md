@@ -1,4 +1,4 @@
-
+![image](https://github.com/vladimirglutan/LeafCalc/assets/88109086/33e2131e-3ab8-43ad-a172-796bdcc91750)
 # Leaf Surface Area Calculator
 
 This repository contains a script to calculate the surface area of leaves in an image using a US quarter as a reference for scale.
@@ -42,9 +42,9 @@ python leafcalc.py
 
 2. **Input the image path**:
 
-   When prompted, enter the full path to the image you want to analyze.
-
-3. **View the results**:
+   When prompted, enter the full path to the image you want to analyze. You can find the path of an image by locating it in finder, right clicking, and then while holding the option key, select "copy [your file name] as pathname." You can now paste the path in. Your path should look something like this: /Users/jackphelps/Downloads/image.png.
+   
+4. **View the results**:
 
    The script will display the image with numbered contours around each leaf and the quarter. In the terminal, you'll see the calculated area for each leaf.
 
