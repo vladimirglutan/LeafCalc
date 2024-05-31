@@ -10,9 +10,22 @@ Created by Jack Phelps.
 - OpenCV for Python
 - NumPy
 - Matplotlib
+- Git
 
+
+Open your terminal as all commands will be pasted and ran there. Install python using homebrew: 
+``
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install python
+``
+
+Next we will install the required packages. 
 ``
 pip install opencv-python numpy matplotlib
+``
+
+``
+brew install git
 ``
 
 ## Setup
