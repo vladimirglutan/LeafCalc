@@ -22,6 +22,7 @@ pip install opencv-python numpy matplotlib
 ``
 git clone https://github.com/vladimirglutan/LeafCalc.git
 ``
+
 ``
 cd LeafCalc
 ``
