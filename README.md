@@ -61,7 +61,7 @@ python leafcalc.py
 
 2. **Input the image path**:
 
-   When prompted, enter the full path to the image you want to analyze. You can find the path of an image by locating it in finder, right clicking, and then while holding the option key, select "copy [your file name] as pathname." You can now paste the path in. Your path should look something like this: /Users/jackphelps/Downloads/image.png.
+   When prompted, enter the full path to the image you want to analyze. You can find the path of an image by locating it in finder, right clicking, and then while holding the option key, select "copy [your file name] as pathname." You can now paste the path in. Your path should look something like this: /Users/jackphelps/Downloads/image.png. THE IMAGE FILE TYPE MUST BE A PNG. 
    
 4. **View the results**:
 
