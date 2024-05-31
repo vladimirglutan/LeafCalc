@@ -13,7 +13,7 @@ Created by Jack Phelps.
 - Git
 
 
-Open your terminal as all commands will be pasted and ran there. Install python using homebrew: 
+Open your terminal as all commands will be pasted and run there. Install python using homebrew: 
 
 ``
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
