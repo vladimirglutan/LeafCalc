@@ -63,7 +63,7 @@ python3 leafcalc.py
    
 4. **View the results**:
 
-   The script will display the image with numbered contours around each leaf and the quarter. In the terminal, you'll see the calculated area for each leaf. Becasue ecah leaf is caclulated indovidually, you can verify and visually check whihc leaf is which.
+   The script will display the image with numbered contours around each leaf and the quarter. In the terminal, you'll see the calculated area for each leaf. Because each leaf is calculated individually, you can verify and visually check which leaf is which.
 
    <img width="416" alt="Screenshot 2024-05-31 at 2 57 07 PM" src="https://github.com/vladimirglutan/LeafCalc/assets/88109086/d7126ff0-e7f3-4dcc-8062-ec2713a62a1c">
 
