@@ -12,13 +12,13 @@ Created by Jack Phelps.
 - Git
 
 
-Open your terminal as all commands will be pasted and run there. First, install homebrew and add it to your path. 
+Open your terminal as all commands will be pasted and run there. First, install homebrew and add it to your path. Copy the command below and paste it into the terminal. 
 
 ``
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ``
 
-When completed, copy the 2 commands under 'next steps' and paste them into the terminal before running them. 
+When completed, copy the 2 commands under 'next steps' in the terminal output and paste them back into the terminal before running them. 
 
 
 Install python using homebrew: 
