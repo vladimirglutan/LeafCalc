@@ -1,7 +1,6 @@
 # Leaf Surface Area Calculator
 
-This repository contains a script to calculate the surface area of leaves in an image using a US quarter as a reference for scale.
-Created by Jack Phelps. If you need help, email or text me. The installation process takes 5 minutes and the calctions are done instantaneously. 
+This repository contains a script to calculate the surface area of leaves in an image using a US quarter as a reference for scale. The installation process takes 5 minutes and the calculations are done instantaneously. If you need help, email or text me. Created by Jack Phelps.
 . 
 
 ## Prerequisites (will be installed below)
