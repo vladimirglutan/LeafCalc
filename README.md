@@ -59,7 +59,7 @@ python3 leafcalc.py
 
 2. **Input the image path**:
 
-   When prompted, enter the full path to the image you want to analyze. You can find the path of an image by locating it in finder, right clicking, and then while holding the option key, select "copy [your file name] as pathname." You can now paste the path in. Your path should look something like this: /Users/jackphelps/Downloads/image.png. THE IMAGE FILE TYPE MUST BE A PNG. If you are AirDropping from an iphone, a quick way to do this is take a screenshot of the image on your mac and then rename the screenshot with a .png at the end.
+   Take a picture of you leaves ontop of a 9 x 11 sheet of white paper. Ensure the leaves are flat and the camera in not at an angle. If your leaves aren't flat, trace the outline of your leaves on the white paper. When prompted, enter the full path to the image you want to analyze. You can find the path of an image by locating it in finder, right clicking, and then while holding the option key, select "copy [your file name] as pathname." You can now paste the path in. Your path should look something like this: /Users/jackphelps/Downloads/image.png. THE IMAGE FILE TYPE MUST BE A PNG. If you are AirDropping from an iphone, a quick way to do this is take a screenshot of the image on your mac and then rename the screenshot with a .png at the end.
    
 4. **View the results**:
 
